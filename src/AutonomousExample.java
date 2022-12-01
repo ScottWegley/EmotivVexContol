@@ -3,7 +3,7 @@ import Util.PacketBuilder;
 import Util.Scheduler;
 import VexnetDriver.VEXnetDriver;
 
-public class Autonomous {
+public class AutonomousExample {
 
     public static VEXnetDriver driver;
     private static Scheduler scheduler;
